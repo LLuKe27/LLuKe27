@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20world,%20I%20am%20Lucas&fontSize=40&font=Helvetica%20Neue&animation=fadeIn" width="100%" />
 
+  <h3>🎓 Cursando Análise e Desenvolvimento de Sistemas</h3>
+
   <br>
 
   <!-- Typing SVG para um efeito dinâmico legal -->
