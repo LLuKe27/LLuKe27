@@ -28,7 +28,9 @@
 
 <br>
 <br>
+
 ---
+
 <div align="center">
 
 <p><h2>🛠️ Tech Stack & Ferramentas</p>
