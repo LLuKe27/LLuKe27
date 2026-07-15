@@ -19,7 +19,7 @@
   <a href="mailto:lhbritocunha@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
   </a>&nbsp;&nbsp;
-  <a href="https://seu-portfolio.com" target="_blank">
+  <a href="https://myportifolio-thss.vercel.app" target="_blank">
     <!-- Coloquei o ícone do React como placeholder, você pode trocar por vue, html, etc. -->
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="Portfolio">
   </a>
