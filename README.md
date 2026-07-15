@@ -31,8 +31,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
