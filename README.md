@@ -11,20 +11,23 @@
   <br>
 
   <!-- Ícones de Redes Sociais -->
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-8208b21b0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:lhbritocunha@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
+  </a>&nbsp;&nbsp;
   <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+    <!-- Coloquei o ícone do React como placeholder, você pode trocar por vue, html, etc. -->
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="Portfolio">
   </a>
 
 </div>
 
 <br>
 <br>
+
+---
 
 ---
 
