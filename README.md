@@ -28,34 +28,6 @@
 
 ---
 
-### 👨‍💻 Sobre Mim & Estatísticas
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <blockquote>
-        "Transformando café em código e ideias em realidade."
-      </blockquote>
-      <p>
-        Sou um(a) desenvolvedor(a) focado(a) em criar experiências de usuário incríveis e arquiteturas escaláveis.
-      </p>
-      <ul>
-        <li>🔭 <b>Trabalhando atualmente em:</b> Projetos de inovação e web.</li>
-        <li>🌱 <b>Aprendendo:</b> Arquitetura em Nuvem & UI/UX.</li>
-        <li>💡 <b>Interesses:</b> Open Source, Inteligência Artificial.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
