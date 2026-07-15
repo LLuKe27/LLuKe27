@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20Mundo!&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20world,%20I%20am%20Lucas&fontSize=40&font=Helvetica%20Neue&animation=fadeIn" width="100%" />
 
   <br>
 
   <!-- Typing SVG para um efeito dinâmico legal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor(a)+Fullstack;Apaixonado(a)+por+Tecnologia;Criando+soluções+inovadoras" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Focado+nos+estudos;Aprimorando+Conhecimentos;Aberto+para+propostas;Instagram+%40lowchoices" alt="Typing SVG" />
   </a>
 
   <br>
