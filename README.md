@@ -1,5 +1,7 @@
 Eae, Tudo bem?
 Me chamo Lucas Henrique, um estudante de Análise e Desenvolvimento de Sistemas.
+
+
 Meu foco de carreira é no Desenvolvimento Mobile e Web.
 
 
